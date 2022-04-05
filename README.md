@@ -21,5 +21,5 @@ href = "mailto:alves.sheila@gmail.com"><img src="https://img.shields.io/badge/-G
 <a 
 href="https://www.linkedin.com/in/sheila-pinheiro-55603b178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
+ ![Snake animation](https://github.com/sheilalvesp1/sheilalvesp1/blob/output/github-contribution-grid-snake.svg)
  
