@@ -1,5 +1,5 @@
-- 👋 Ola,eu sou Sheila Alves
-- 🌱 Estudante de Análise de Desenvolvimento de Sistemas 
+- 👋 Ola, eu sou Sheila Pinheiro
+- 🌱 Estudante de Análise de Desenvolvimento de Sistemas, trabalho com Sustentação de ServiceNow em uma consultoria e me aprofundando em desenvolvimento e análise de dados.
 - 📫 sheila.8883@gmail.com
 
 <div align="center">
